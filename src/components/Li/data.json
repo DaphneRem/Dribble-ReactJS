@@ -1,0 +1,188 @@
+{
+"this.Shots": [{
+     "id" : 1,
+     "url": "http://www.google.fr",
+     "title": "shops"
+   },
+   {
+     "id": 2,
+     "url": "http://www.google.fr",
+     "title": "Popular"
+   },
+   {
+   "id": 3,
+   "url": "http://www.google.fr",
+   "title": "Recent"
+   },
+   {
+   "id": 4,
+   "url": "http://www.google.fr",
+     "title": "Debuts"
+   },
+   {
+   "id": 5,
+   "url": "http://www.google.fr",
+     "title": "Teams"
+   },
+   {
+   "id": 6,
+   "url": "http://www.google.fr",
+     "title": "Playoffs"
+   },
+   {
+   "id": 7,
+   "url": "http://www.google.fr",
+     "title": "Highlights"
+   },
+   {
+   "id": 8,
+   "url": "http://www.google.fr",
+     "title": "Project"
+   },
+   {
+   "id": 9,
+   "url": "http://www.google.fr",
+   "title": "Goods by Designers"
+   },
+ ],
+"this.Designers": [{
+     "id" : 1,
+     "url": "http://www.google.fr",
+     "title": "all"
+   },
+   {
+     "id": 2,
+     "url": "http://www.google.fr",
+     "title": "For Hire"
+   },
+   {
+   "id": 3,
+   "url": "http://www.google.fr",
+   "title": "Community"
+   }
+ ],
+"this.Teams": [{
+     "id" : 1,
+     "url": "http://www.google.fr",
+     "title": "all"
+   },
+   {
+     "id": 2,
+     "url": "http://www.google.fr",
+     "title": "Hiring Designers"
+   },
+   {
+   "id": 3,
+   "url": "http://www.google.fr",
+   "title": "Design Teams for Hire"
+   },
+   {
+   "id": 4,
+   "url": "http://www.google.fr",
+   "title": "Add Your Design Team"
+   }
+ ],
+"this.Community": [{
+     "id" : 1,
+     "url": "http://www.google.fr",
+     "title": "Places"
+   },
+   {
+     "id": 2,
+     "url": "http://www.google.fr",
+     "title": "Meetups"
+   },
+   {
+   "id": 3,
+   "url": "http://www.google.fr",
+   "title": "Stories"
+   },
+   {
+   "id": 4,
+   "url": "http://www.google.fr",
+   "title": "Podcast"
+   },
+   {
+   "id": 5,
+   "url": "http://www.google.fr",
+   "title": "Testimonials"
+   },
+   {
+   "id": 6,
+   "url": "http://www.google.fr",
+   "title": "Guidlines"
+   }
+ ],
+"this.Jobs": [{
+     "id" : 1,
+     "url": "http://www.google.fr",
+     "title": "Places"
+   },
+   {
+     "id": 2,
+     "url": "http://www.google.fr",
+     "title": "Remote / Anywhere"
+   },
+   {
+   "id": 3,
+   "url": "http://www.google.fr",
+   "title": "Teams Hiring"
+   },
+   {
+   "id": 4,
+   "url": "http://www.google.fr",
+   "title": "Post a Job"
+   }
+],
+"this.Link": [{
+     "id" : 1,
+     "url": "http://www.google.fr",
+     "title": "About"
+   },
+   {
+     "id": 2,
+     "url": "http://www.google.fr",
+     "title": "Shop"
+   },
+   {
+   "id": 3,
+   "url": "http://www.google.fr",
+   "title": "Support"
+   },
+   {
+   "id": 4,
+   "url": "http://www.google.fr",
+     "title": "Buckets"
+   },
+   {
+   "id": 5,
+   "url": "http://www.google.fr",
+     "title": "Colors"
+   },
+   {
+   "id": 6,
+   "url": "http://www.google.fr",
+     "title": "Tags"
+   },
+   {
+   "id": 7,
+   "url": "http://www.google.fr",
+     "title": "Trainings"
+   },
+   {
+   "id": 8,
+   "url": "http://www.google.fr",
+     "title": "Twitter"
+   },
+   {
+   "id": 9,
+   "url": "http://www.google.fr",
+   "title": "Facebook"
+   },
+{
+   "id": 10,
+   "url": "http://www.google.fr",
+   "title": "Integrations"
+   }
+ ]
+}
